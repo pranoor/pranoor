@@ -292,11 +292,6 @@
   <img src="https://github-contribution-stats.vercel.app/api/?username=pranoor&theme=tokyonight" alt="Contribution Stats" />
 </div>
 
-<!-- Wakatime Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pranoor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=20" alt="Wakatime Stats" />
-</div>
-
 <!-- Animated separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
