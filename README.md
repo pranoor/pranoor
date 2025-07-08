@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img height="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=gradient&background=00000000&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+Digital+Universe;🚀+Fullstack+AI+Developer;🤖+Machine+Learning+Engineer;✨+Building+the+Future+with+Code;💡+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  <img height="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=gradient&background=00000000&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+Digital+Universe;🚀+Fullstack+AI+Developer;🤖+Machine+Learning+Engineer;✨+Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <!-- Animated Divider -->
