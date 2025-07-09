@@ -1,37 +1,24 @@
-<!-- Animated Header with Gradient Background -->
+<!-- Elegant Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Pranoor&fontSize=90&fontAlign=75&fontAlignY=40&fontColor=fff&desc=Fullstack%20AI%20Developer%20%7C%20Building%20Tomorrow's%20Tech&descAlign=75&descAlignY=60&animation=fadeIn" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pranoor Singh Khurana" alt="Name" />
+  </h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=Fullstack+AI+Developer+%7C+Machine+Learning+Engineer;Building+intelligent+solutions+for+tomorrow's+challenges" alt="Title" />
+  </p>
 </div>
 
-<!-- Animated Typing Text -->
 <div align="center">
-  <img height="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=gradient&background=00000000&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+Digital+Universe;🚀+Fullstack+AI+Developer;🤖+Machine+Learning+Engineer;✨+Building+the+Future+with+Code" alt="Typing SVG" />
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Floating Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ## 🚀 About Me
 
 <div align="left">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=500&lines=🔥+Passionate+Fullstack+AI+Developer" alt="About typing" />
-  
   <p align="left">
     <em>Bridging the gap between human needs and technological possibilities through intelligent solutions.</em>
   </p>
 </div>
-
-<br clear="right"/>
 
 <div align="center">
   <table>
@@ -58,16 +45,7 @@
   </table>
 </div>
 
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎯+Technologies+I+Work+With;⚡+Always+Learning+New+Skills" alt="Tech Stack Typing" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -168,16 +146,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📈+My+Coding+Journey+in+Numbers;⚡+Always+Building%2C+Always+Learning" alt="Analytics Typing" />
-</div>
 
 <!-- Stats Cards with Animation -->
 <div align="center">
@@ -186,6 +155,12 @@
 </div>
 
 <!-- Animated Streak Stats -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=20" alt="GitHub Streak Stats" />
 </div>
@@ -200,90 +175,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&area_color=1F6FEB" alt="3D Contribution Graph" />
 </div>
 
-
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=📊+My+Coding+Activity;🔥+Consistent+Learning+%26+Building" alt="Activity Typing" />
-</div>
-
-<!-- Enhanced Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranoor&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&hide_border=true&custom_title=📈 Contribution Activity Graph&height=300&radius=16" alt="Contribution Graph" />
-</div>
-
-
-
-<!-- Contribution Stats -->
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=pranoor&theme=tokyonight" alt="Contribution Stats" />
-</div>
-
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🌟 What I'm Up To
-
-<div align="center">
-
-```javascript
-const pranoor = {
-    currentFocus: "Building AI-powered full-stack applications",
-    learning: ["Advanced MLOps", "Web3 Integration", "Quantum Computing"],
-    workingOn: [
-        "AI-driven SaaS platform",
-        "Open-source ML library", 
-        "Next.js + AI integration tutorials"
-    ],
-    askMeAbout: [
-        "Machine Learning", "Deep Learning", "Full-Stack Development",
-        "AI Ethics", "Tech Leadership", "Open Source"
-    ],
-    technologies: {
-        AI_ML: ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
-        frontEnd: ["React", "Next.js", "TypeScript", "Vue.js"],
-        backEnd: ["Node.js", "Python", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-        tools: ["Git", "VS Code", "Jupyter", "Postman"]
-    },
-    architecture: ["Microservices", "Serverless", "JAMstack", "Progressive Web Apps"],
-    currentChallenge: "Optimizing ML model deployment at scale �"
-};
-```
-
-</div>
-
----
-
 ## 📫 Let's Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤝+Let's+Build+Something+Amazing;🌐+Always+Open+to+Collaborate" alt="Connect Typing" />
-</div>
 
 <!-- Animated Connection Icons -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/pranoor)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/pranoor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF5722)](https://pranoor.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:pranoor@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/pranoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/pranoor-singh-khurana-765a70241/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/PranoorKhurana)
 
 </div>
 
@@ -294,41 +197,18 @@ const pranoor = {
   <img src="https://img.shields.io/badge/📍_Location-Global_Remote-orange?style=for-the-badge" />
 </div>
 
-<!-- Animated separator -->
+<!-- Elegant Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="80">
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=pranoor&label=Profile%20Views&color=58A6FF&style=flat&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pranoor?label=Followers&style=flat&color=1F6FEB&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pranoor?label=Stars&style=flat&color=FFD700&labelColor=0D1117" alt="Stars" />
+  
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile;Let's+connect+and+build+something+amazing;Code+with+passion%2C+build+with+purpose" alt="Footer message" />
+  
 </div>
 
-
-<div align="center">
-  <!-- Profile Views Counter with Animation -->
-  <img src="https://komarev.com/ghpvc/?username=pranoor&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pranoor?label=Followers&style=for-the-badge&color=1F6FEB" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/pranoor?label=Stars&style=for-the-badge&color=FFD700" alt="Stars" />
-  
-  <!-- Animated Quote -->
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <!-- Thank You Animation -->
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🤝;Always+happy+to+collaborate!+💫;Keep+coding+and+stay+awesome!+🔥" alt="Footer Typing SVG" />
-  
-  <!-- Final Animated Separator -->
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" />
-</div>
-<!--
-**pranoor/pranoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
