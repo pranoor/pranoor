@@ -23,7 +23,6 @@
 ## 🚀 About Me
 
 <div align="left">
-  <img align="right" alt="AI Developer" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=500&lines=🔥+Passionate+Fullstack+AI+Developer" alt="About typing" />
   
@@ -73,7 +72,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
@@ -202,74 +200,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&area_color=1F6FEB" alt="3D Contribution Graph" />
 </div>
 
-<!-- Metrics with animations -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/pranoor?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="Achievements" />
-</div>
 
 <!-- Animated separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🌟+My+Latest+Creations;💎+Projects+That+Define+My+Journey" alt="Projects Typing" />
-</div>
-
-<!-- Project Cards with Hover Effect -->
-<div align="center">
-  <a href="https://github.com/pranoor/ai-chatbot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranoor&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B35&border_radius=20" />
-  </a>
-  <a href="https://github.com/pranoor/ml-pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranoor&repo=ml-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B35&border_radius=20" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/pranoor/fullstack-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranoor&repo=fullstack-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B35&border_radius=20" />
-  </a>
-  <a href="https://github.com/pranoor/data-viz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranoor&repo=data-viz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B35&border_radius=20" />
-  </a>
-</div>
-
-<!-- Project Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranoor&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues,contribs&custom_title=🚀 Repository Insights&border_radius=20&hide_border=true" alt="Repository Stats" />
-</div>
-
-<!-- Animated separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-🥇 **AI/ML Certifications**
-- 🎓 Machine Learning Specialist - AWS
-- 🎓 TensorFlow Developer Certificate
-- 🎓 Deep Learning Specialization - Coursera
-
-🏅 **Full-Stack Certifications**
-- 🎓 React Developer Certification
-- 🎓 Node.js Application Developer
-- 🎓 AWS Solutions Architect
-
-📈 **GitHub Achievements**
-- ⭐ 1000+ Stars across repositories
-- 🍴 500+ Forks
-- 👥 100+ Followers
-- 📦 50+ Public Repositories
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -282,10 +218,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranoor&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&hide_border=true&custom_title=📈 Contribution Activity Graph&height=300&radius=16" alt="Contribution Graph" />
 </div>
 
-<!-- Detailed Metrics -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/pranoor?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&lines=1&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FKolkata" alt="Lines of Code" />
-</div>
+
 
 <!-- Contribution Stats -->
 <div align="center">
@@ -366,23 +299,6 @@ const pranoor = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 💡 Fun Facts & Interests
-
-<div align="center">
-
-🎮 **Beyond Code:**
-- 🎵 Music enthusiast who codes to lo-fi beats
-- 📚 Avid reader of sci-fi and tech innovation books  
-- ☕ Coffee connoisseur (fuel for late-night coding sessions)
-- 🌍 Travel lover exploring tech hubs around the world
-- 🎯 Competitive programming participant
-
-🤖 **AI Philosophy:**
-*"AI should augment human intelligence, not replace it. My goal is to build technology that empowers people to achieve more than they thought possible."*
-
-</div>
-
----
 
 <div align="center">
   <!-- Profile Views Counter with Animation -->
@@ -393,10 +309,6 @@ const pranoor = {
   <!-- Animated Quote -->
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <!-- Main Motto with Animation -->
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=gradient&background=00000000&center=true&vCenter=true&width=800&lines=🌟+Building+the+future%2C+one+line+of+code+at+a+time+🌟;✨+Innovation+through+collaboration+✨;🚀+AI+%2B+Full+Stack+%3D+Infinite+Possibilities+🚀" alt="Motto Typing SVG" />
   
   <!-- Thank You Animation -->
   <br><br>
