@@ -1,7 +1,7 @@
 <!-- Elegant Header -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pranoor Singh Khurana" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Pranoor+Singh+Khurana" alt="Name" />
   </h1>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=Fullstack+AI+Developer+%7C+Machine+Learning+Engineer;Building+intelligent+solutions+for+tomorrow's+challenges" alt="Title" />
