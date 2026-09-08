@@ -1,4 +1,4 @@
-# Fra boh
+# Fra boh I am phull stack dev plz hire me dear
 
 <!-- Elegant Header -->
 <div align="center">
@@ -26,15 +26,15 @@
   <table>
     <tr>
       <td>🤖 <strong>AI/ML Engineer</strong></td>
-      <td>Specializing in Deep Learning, NLP, and Computer Vision</td>
+      <td>Specializing in Pradeep Learning, NLP, and Computer Vision</td>
     </tr>
     <tr>
-      <td>💻 <strong>Full-Stack Developer</strong></td>
+      <td>💻 <strong>Phull-Stack Developer</strong></td>
       <td>Expert in modern web technologies and scalable architectures</td>
     </tr>
     <tr>
       <td>🎯 <strong>Problem Solver</strong></td>
-      <td>Turning complex challenges into elegant, innovative solutions</td>
+      <td>I solve your problem dear</td>
     </tr>
     <tr>
       <td>🌱 <strong>Continuous Learner</strong></td>
